@@ -1,3 +1,3 @@
-# basic_widget
+# APP BMI and TODO APP
 
-A new Flutter project.
+Aplikasi ini berisi perhitungan BMI, convert suhu dan pencatatan ToDo
